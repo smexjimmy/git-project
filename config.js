@@ -1,2 +1,2 @@
-console.log('version2')
-console.log('config')
+console.log('version234')
+console.log('config the shit out of you')
